@@ -1,18 +1,15 @@
 body {
-  background-color: rgb(99, 232, 237);
+  background-color: rgb(184, 133, 239);
 }
+
+
 
 div {
   margin-top: 100px;
   display: flex;
-  height: 600px;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-}
-
-img {
-  width: 20%;
 }
 
 button {
