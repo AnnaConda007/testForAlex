@@ -24,3 +24,9 @@ button {
 .picture {
   display: none;
 }
+
+p{
+  background-color: blue;
+  padding: 10px;
+  font-size: 30px;
+}
